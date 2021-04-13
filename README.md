@@ -1,6 +1,6 @@
 # Miles Tsue
 
-### Data professional with training in programming languages (Python, C, VBA) and Databases. Background in classical music performance on double bass.
+### Data professional with training in programming languages (Python, Javascript, C) and Databases. Background in classical music performance on double bass.
 
 * I'm currently learning all facets of Data Science, as well as Calculus, Transmedia Storytelling and C programming.
 
