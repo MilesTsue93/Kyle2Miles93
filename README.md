@@ -16,5 +16,11 @@
 
 ## Tech Stack
 
-@Python
+* Javascript
+* Leaflet
+* Plotly
+* PySpark
+* HTML
+* CSS
+* PostgreSQL
 
