@@ -8,5 +8,5 @@
 
 * Ask me about anything music! 🎹 🎻 I play the double bass and am an enthusiast of lesser-known classical and jazz music. I am interested in Natural Language Processing and in addition want to investigate how to create a piece of music using Artificial Intelligence. 
 
-##Tech Stack
+## Tech Stack
 
