@@ -2,7 +2,7 @@
 
 ### Data analyst + Software Engineer with training in programming languages (Python, Javascript, C) and Databases. Background in classical music performance on double bass.
 
-* I'm currently learning all facets of Software Engineering. Interested in pure math as well.
+* I'm currently learning all facets of Software Engineering.
 
 ## Hobbies
 
