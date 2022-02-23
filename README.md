@@ -1,6 +1,6 @@
 # Miles Tsue
 
-### Data analyst + Software Engineer with training in programming languages (Python, Javascript, C) and Databases. Background in classical music performance on double bass.
+### Data analyst + Software Engineer with training in programming languages Python and Java and Databases/SQL. Background in classical music performance on double bass.
 
 * I'm currently learning all facets of Software Engineering.
 
